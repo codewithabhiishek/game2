@@ -1,0 +1,8 @@
+{
+  "name": "Time Echo",
+  "description": "An atmospheric puzzle platformer where you must cooperate with your past recorded echoes to escape a temporal loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
